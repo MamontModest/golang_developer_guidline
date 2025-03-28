@@ -1,0 +1,1 @@
+[Video Kafka - хватит с головой](https://www.youtube.com/watch?v=-AZOi3kP9Js&t=448s&ab_channel=ВладимирБогдановский)

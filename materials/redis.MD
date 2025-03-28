@@ -1,0 +1,1 @@
+[Video Redis - хватит с головой](https://www.youtube.com/watch?v=QpBaA6B1U90&t=821s&ab_channel=suchkovtech)

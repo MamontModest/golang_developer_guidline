@@ -1,0 +1,1 @@
+[Video Docker - хватит с головой](https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk)
