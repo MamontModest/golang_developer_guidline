@@ -24,7 +24,7 @@
 
 ### Материалы
 - [Индексы](https://www.youtube.com/watch?v=DyqtBiDrz3g&t=265s&ab_channel=ВаняИопроразработку)
-- [Повышенный курс от ИТМО](https://www.youtube.com/watch?v=P_SXTUiA-9Y&ab_channel=НиколайТузов—Golang)
+- [Повышенный курс от ИТМО](https://www.youtube.com/playlist?list=PLBAwg87wLtfLY7WCevPxuT0Uig_NHTHF1)
 
 ### Вспомнить перед собесом
 - [Статья1](https://habr.com/ru/articles/745948/)
